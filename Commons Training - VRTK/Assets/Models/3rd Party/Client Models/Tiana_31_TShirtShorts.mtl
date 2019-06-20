@@ -1,0 +1,127 @@
+# Blender MTL File: 'Tiana_31_TShirtShorts.blend'
+# Material Count: 11
+
+newmtl Tiana_31_ShortsTShirtShoes:Eyebrow006:eyebrow006
+Ns 500.000000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures\\eyebrow006.png
+map_d textures\\eyebrow006.png
+
+newmtl Tiana_31_ShortsTShirtShoes:HighPolyEyes:Eye_brown
+Ns 1000.000000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures\\hazel_eye.png
+map_d textures\\hazel_eye.png
+
+newmtl Tiana_31_ShortsTShirtShoes:Skin
+Ns 500.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.043140 0.027450 0.027450
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures\\young_darkskinned_female_diffuse.png
+map_d textures\\young_darkskinned_female_diffuse.png
+
+newmtl Tiana_31_ShortsTShirtShoes:Teeth_Shape05:teethMaterial
+Ns 800.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.854900 0.854900 0.854900
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures\\teeth.png
+map_d textures\\teeth.png
+
+newmtl Tiana_31_ShortsTShirtShoes:eyelashes03:bodyMaterial
+Ns 500.000000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures\\eyelashes03.png
+map_d textures\\eyelashes03.png
+
+newmtl Tiana_31_ShortsTShirtShoes:fhair01:female01Material
+Ns 500.000000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.938091 0.008514
+Ks 0.200000 0.200000 0.200000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Bump textures\\normals.png
+map_Kd textures\\diffuse_black.png
+map_d textures\\diffuse_black.png
+
+newmtl Tiana_31_ShortsTShirtShoes:shoes02:shoes02
+Ns 800.000000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.078430 0.078430 0.078430
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures\\shoes02_white.png
+map_d textures\\shoes02_white.png
+
+newmtl Tiana_31_ShortsTShirtShoes:short01:short01basic
+Ns 194.117647
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.021981 0.021981
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Bump textures\\short01_normals.png
+map_Kd textures\\short01_basic_diffuse.png
+map_d textures\\short01_basic_diffuse.png
+
+newmtl Tiana_31_ShortsTShirtShoes:tongue01:tongue01Material
+Ns 194.117647
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.031370 0.031370 0.031370
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd textures\\tongue01_diffuse.png
+map_d textures\\tongue01_diffuse.png
+
+newmtl Tiana_31_ShortsTShirtShoes:tshirt02:tshirt02Material
+Ns 194.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.007546 0.013683 1.000000
+Ks 0.031370 0.031370 0.031370
+Ni 1.000000
+d 0.000000
+illum 2
+map_Bump textures\\tshirt02_normals.png
+map_Kd C:\\Users\\clickey\\Documents\\makehuman\\v1\\models\\Jill\\caucasian\\textures\\tshirt02_fadingSpectrum2.png
+map_d C:\\Users\\clickey\\Documents\\makehuman\\v1\\models\\Jill\\caucasian\\textures\\tshirt02_fadingSpectrum2.png
+
+newmtl Tiana_31_ShortsTShirtShoes:vag01:vag01_caucasian
+Ns 500.000000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.027450 0.027450 0.027450
+Ni 1.000000
+d 0.000000
+illum 2
+map_Bump textures\\vag01_normals.png
+map_Kd textures\\vag01_darkkinned_diffuse.png
+map_d textures\\vag01_darkkinned_diffuse.png

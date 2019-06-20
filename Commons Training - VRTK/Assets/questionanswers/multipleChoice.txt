@@ -1,0 +1,36 @@
+I'm trying to use a computer but it is not displaying video!
+Check cables, restart the machine, etc.
+Tell the client to try and fix it themself
+Tell the client you'll look at it later when you have a moment.
+Call Tim at home.
+Not Displaying The Video
+I'm trying to login to linux but keep getting an error. My login works for Windows.
+Get them to login to WinSCP and delete the .dmrc file in their directory
+Tell them to try another lab.
+Tell them to use windows instead
+Call the ITS Help Desk
+Error On Linux
+I registered for Math 1000 online, but the course is not showing up in Brightspace?
+Call the CITL Support Centre.
+Call the Registrar’s Office.
+Let Meaghan know.
+Call the ITS Help Desk
+Course Is Not Showing Up
+Can I book an appoitment for the Writing Centre? 
+First, ask a client if they are an undergraduate or gradute student
+First, show him the writing centre schedule
+First, ask for their student ID
+First, debit the client's account
+none
+Someone forgot the USB in the computer I was using
+Take the USB and check it for a client information.
+Take the USB to the Lost and Found Desk.
+Ask the client to leave where it was.
+Claim the USB for yourself.
+none
+where can I borrow the a voice recorder?
+Send client to the DMC
+Send client to the Makerspace
+Give them your own voice recorder
+Send client to Meaghan's office
+none
